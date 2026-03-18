@@ -1,0 +1,68 @@
+body {
+  font-family: times new roman;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+.main-header {
+  background-color: #3498db;
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+  
+}
+
+.main-header nav ul {
+  list-style-type: name;
+  padding: 0;
+}
+
+.main-header nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.main-header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#about {
+  text-align: center;
+}
+
+#about .ritsu-jpg{
+  width: 30%;
+  height: 30%;
+  object-fit: cover;
+  margin: 1rem 0;
+}
+
+.content {
+  padding: 2rem;
+  background-color: #fff;
+  margin: 20px auto;
+  width: 80%;
+  box-shadow:  2px 3px 4px black;
+}
+
+.main-footer {
+  background-color: #2eec71;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.awal {
+  text-shadow: 2px 3px black;
+}
+
+.kotak {
+  height= 200px;
+  width= 200px;
+  background-color= blue;
+}
+
+
+
